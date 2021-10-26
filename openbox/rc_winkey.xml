@@ -357,6 +357,13 @@
         <command>rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/polybar/blocks/scripts/rofi/launcher.rasi</command>
       </action>
     </keybind>
+    <!--thunar-->
+    <keybind key="W-t">
+      <action name="Execute">
+        <name>thunar</name>
+        <command>thunar</command>
+      </action>
+    </keybind>
     <!--dmenu-->
     <keybind key="W-d">
       <action name="Execute">

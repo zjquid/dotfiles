@@ -362,6 +362,13 @@
         <command>rofi -show drun</command>
       </action>
     </keybind>
+    <!--thunar-->
+    <keybind key="A-t">
+      <action name="Execute">
+        <name>thunar</name>
+        <command>thunar</command>
+      </action>
+    </keybind>
     <!--dmenu-->
     <keybind key="A-d">
       <action name="Execute">
