@@ -24,6 +24,7 @@
     alias gs='git status'
     alias matlab='~/matlab/matlab/bin/matlab'
     alias bt='acpi -bt'
+    alias qp='qpdfview'
 # redirects
     alias vim='nvim' # you already know
     alias gedit='nvim'
