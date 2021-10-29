@@ -27,7 +27,8 @@
 # redirects
     alias vim='nvim' # you already know
     alias gedit='nvim'
-    alias em='env HOME=$HOME/microemacs emacs -nw'
+    alias em='env HOME=$HOME/.emacs.d/microemacs emacs -nw'
+    alias rm='trash-put'
 # common mistakes
     alias clea='clear'
     alias cd..='cd ..'
