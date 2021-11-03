@@ -7,6 +7,7 @@ git clone https://github.com/zjquid/dotfiles ~/.config && ~/.config/dotfiles/dep
 
 ## installation on a nonfresh system
 *this just merges the current ~/.config with the repo*
+
 cp ~/.config ~/tempconfig -r
 rm -rf ~/.config
 git clone https://github.com/zjquid/dotfiles ~/.config && ~/.config/dotfiles/deploy.sh
