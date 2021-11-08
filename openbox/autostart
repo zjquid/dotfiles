@@ -16,3 +16,6 @@ picom &
 
 # wallpaper
 feh --bg-tile --randomize ~/wiig/pattemp/* &
+
+# emacs daemon
+emacs --daemon &
