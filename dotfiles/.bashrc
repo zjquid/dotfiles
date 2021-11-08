@@ -25,6 +25,7 @@
     alias matlab='~/matlab/matlab/bin/matlab'
     alias bt='acpi -bt'
     alias qp='qpdfview'
+    alias scrot='scrot -s'
 # redirects
     alias vim='nvim' # you already know
     alias gedit='nvim'
