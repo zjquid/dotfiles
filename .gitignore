@@ -10,3 +10,9 @@ GIMP/
 freezer/
 gtk-2.0/
 gtk-3.0/
+autostart/
+gzdoom/
+zdoom/
+lxsession/
+
+QtProject.conf

@@ -848,20 +848,30 @@
     <!-- show the manage desktops section in the client-list-(combined-)menu -->
   </menu>
   <applications>
-
-<application name="emacs*" class="Emacs*" type="normal">
-    <position force="yes">
+    <application name="emacs*" class="Emacs*" type="normal">
+      <position force="yes">
         <x>0</x>
         <y>0</y>
-    </position>
-    <size>
+      </position>
+      <size>
         <height>100%</height>
         <width>100%</width>
-    </size>
-    <decor>yes</decor>
-    <maximized>yes</maximized>
-</application>
-
+      </size>
+      <decor>yes</decor>
+      <maximized>yes</maximized>
+    </application>
+    <application name="emacsclient*" class="Emacs*" type="normal">
+      <position force="yes">
+        <x>0</x>
+        <y>0</y>
+      </position>
+      <size>
+        <height>100%</height>
+        <width>100%</width>
+      </size>
+      <decor>yes</decor>
+      <maximized>yes</maximized>
+    </application>
     <!--
   # this is an example with comments through out. use these to make your
   # own rules, but without the comments of course.
