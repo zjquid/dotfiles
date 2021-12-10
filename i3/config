@@ -1,6 +1,9 @@
 # i3 config by Andrew Hooke
 # rewriting from scratch because old reliable got boring
 
+# mod1 = alt, mod4 = super
+set $mod Mod1
+
 # i3lock keybind
 bindsym $mod+Shift+Tab exec i3lock
 
@@ -29,9 +32,6 @@ exec picom
 
 # map control to capslock
 exec --no-startup-id /usr/bin/setxkbmap -option "ctrl:nocaps"
-
-# mod1 = alt, mod4 = super
-set $mod Mod1
 
 # font for window borders and default bar - this will not be used by default
 font pango:monospace 8

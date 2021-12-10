@@ -19,3 +19,6 @@ feh --bg-tile --randomize ~/wiig/pattemp/* &
 
 # emacs daemon
 emacs --daemon &
+
+# thunar daemon
+thunar --daemon &

@@ -14,5 +14,7 @@ autostart/
 gzdoom/
 zdoom/
 lxsession/
+calibre/
+octave/
 
 QtProject.conf
