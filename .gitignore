@@ -16,5 +16,18 @@ zdoom/
 lxsession/
 calibre/
 octave/
+kdeconnect/
+temp/
 
 QtProject.conf
+kactivitymanagerdrc
+kfontinstuirc
+kfontviewrc
+mimeapps.list
+plasmarc
+systemsettingsrc
+user-dirs.dirs
+user-dirs.locale
+konsolerc
+kglobalshortcutsrc
+

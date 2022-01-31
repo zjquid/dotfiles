@@ -12,6 +12,7 @@ set nu
 set relativenumber
 set guicursor=n-v-c-sm-i-ci-ve:block,r-cr-o:hor20
 set colorcolumn=80
+set noundofile
 
 call plug#begin('~/.vim/plugged')
 
