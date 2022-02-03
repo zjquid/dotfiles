@@ -18,6 +18,7 @@ calibre/
 octave/
 kdeconnect/
 temp/
+systemd/
 
 QtProject.conf
 kactivitymanagerdrc
