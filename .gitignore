@@ -18,6 +18,10 @@ calibre/
 octave/
 kdeconnect/
 temp/
+deadbeef/
+nuclear/
+vlc/
+KDE/
 
 QtProject.conf
 kactivitymanagerdrc
@@ -30,4 +34,6 @@ user-dirs.dirs
 user-dirs.locale
 konsolerc
 kglobalshortcutsrc
-
+okularrc
+okularpartrc
+dragonplayerrc
