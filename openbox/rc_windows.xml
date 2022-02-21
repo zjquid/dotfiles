@@ -378,6 +378,13 @@
         <command>firefox</command>
       </action>
     </keybind>
+    <!--emacs-->
+    <keybind key="W-e">
+      <action name="Execute">
+        <name>emacs</name>
+        <command>emacsclient -c</command>
+      </action>
+    </keybind>
     <!--fullscreen windows-->
     <keybind key="W-f">
       <action name="ToggleMaximize"/>
@@ -829,6 +836,30 @@
     <!-- show the manage desktops section in the client-list-(combined-)menu -->
   </menu>
   <applications>
+    <application name="emacs*" class="Emacs*" type="normal">
+      <position force="yes">
+        <x>0</x>
+        <y>0</y>
+      </position>
+      <size>
+        <height>100%</height>
+        <width>100%</width>
+      </size>
+      <decor>yes</decor>
+      <maximized>yes</maximized>
+    </application>
+    <application name="emacsclient*" class="Emacs*" type="normal">
+      <position force="yes">
+        <x>0</x>
+        <y>0</y>
+      </position>
+      <size>
+        <height>100%</height>
+        <width>100%</width>
+      </size>
+      <decor>yes</decor>
+      <maximized>yes</maximized>
+    </application>
     <!--
   # this is an example with comments through out. use these to make your
   # own rules, but without the comments of course.

@@ -15,7 +15,8 @@ picom &
 /usr/bin/setxkbmap -option "ctrl:nocaps" &
 
 # wallpaper
-feh --bg-tile --randomize ~/wiig/pattemp/* &
+# feh --bg-tile --randomize ~/wiig/pattemp/* &
+feh --bg-fill ~/wiig/c/cali.JPG
 
 # emacs daemon
 emacs --daemon &
