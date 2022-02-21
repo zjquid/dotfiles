@@ -463,8 +463,8 @@
       <action name="MoveResizeTo">
         <x>center</x>
         <y>center</y>
-        <width>60%</width>
-        <height>60%</height>
+        <width>70%</width>
+        <height>70%</height>
       </action>
     </keybind>
     <!--exit-->
@@ -477,7 +477,7 @@
     <keybind key="A-Return">
       <action name="Execute">
         <name>terminal</name>
-        <command>urxvt</command>
+        <command>xfce4-terminal</command>
       </action>
     </keybind>
     <!--lock-->

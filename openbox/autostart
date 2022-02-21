@@ -16,7 +16,11 @@ picom &
 
 # wallpaper
 # feh --bg-tile --randomize ~/wiig/pattemp/* &
+<<<<<<< HEAD
 feh --bg-fill ~/wiig/c/cali.JPG
+=======
+feh --bg-fill ~/wiig/c/mswp.png
+>>>>>>> 6bb4fca0eeb677349e9f23be20ab8417c8f18b19
 
 # emacs daemon
 emacs --daemon &

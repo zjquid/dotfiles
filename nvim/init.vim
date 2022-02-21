@@ -12,6 +12,7 @@ set nu
 set relativenumber
 set guicursor=n-v-c-sm-i-ci-ve:block,r-cr-o:hor20
 set colorcolumn=80
+set noundofile
 
 call plug#begin('~/.vim/plugged')
 
@@ -37,3 +38,9 @@ nnoremap <leader>fg <cmd>Telescope live_grep<cr>
 nnoremap <leader>fb <cmd>Telescope buffers<cr>
 nnoremap <leader>fh <cmd>Telescope help_tags<cr>
 
+" map CTRL-E to end-of-line (insert mode)
+nmap <C-e> <esc>$
+imap <C-e> <esc>$i<right>
+" map CTRL-A to beginning-of-line (insert mode)
+nmap <C-a> <esc>0
+imap <C-a> <esc>0i

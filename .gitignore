@@ -1,4 +1,5 @@
 OpenRCT2/
+chromium/
 Thunar/
 dconf/
 nuclearthrone/
@@ -16,5 +17,25 @@ zdoom/
 lxsession/
 calibre/
 octave/
+kdeconnect/
+temp/
+deadbeef/
+nuclear/
+vlc/
+KDE/
+systemd/
 
 QtProject.conf
+kactivitymanagerdrc
+kfontinstuirc
+kfontviewrc
+mimeapps.list
+plasmarc
+systemsettingsrc
+user-dirs.dirs
+user-dirs.locale
+konsolerc
+kglobalshortcutsrc
+okularrc
+okularpartrc
+dragonplayerrc
