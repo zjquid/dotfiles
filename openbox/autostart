@@ -1,8 +1,8 @@
 # openbox autostart
 # andrew hooke 05/30/21
 
-# monitor setup
-# xrandr --output LVDS1 --mode 1680x1050 --scale-from 1920x1080 --output DisplayPort-1-1 --mode 1920x1080 --scale 1x1 --same-as LVDS1 &
+# monitor
+xrandr --output LVDS1 --mode 1280x800 --scale-from 1920x1080 --output HDMI2 --mode 1920x1080 --scale 1x1 --same-as LVDS1 &
 
 # compositor
 picom &
@@ -16,11 +16,7 @@ picom &
 
 # wallpaper
 # feh --bg-tile --randomize ~/wiig/pattemp/* &
-<<<<<<< HEAD
 feh --bg-fill ~/wiig/c/cali.JPG
-=======
-feh --bg-fill ~/wiig/c/mswp.png
->>>>>>> 6bb4fca0eeb677349e9f23be20ab8417c8f18b19
 
 # emacs daemon
 emacs --daemon &
