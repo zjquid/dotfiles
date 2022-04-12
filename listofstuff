@@ -1,0 +1,15 @@
+coreboot -> flashdrive 
+token.txt
+
+# repos to clone:
+homework
+thinkpadfixes
+zjquid.github.io
+wiig
+.config -> expand upon more below
+
+# appimages / .desktop files
+openrct2
+- needs rct2 files -> flashdrive
+qtscrobbler (not an appimage)
+brutaldoom -> flashdrive
