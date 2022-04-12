@@ -24,6 +24,10 @@ nuclear/
 vlc/
 KDE/
 systemd/
+cantata/
+Clementine/
+kde.org/
+strawberry/
 
 QtProject.conf
 kactivitymanagerdrc
@@ -39,3 +43,7 @@ kglobalshortcutsrc
 okularrc
 okularpartrc
 dragonplayerrc
+baloofilerc
+elisarc
+kconf_updaterc
+kdeglobals
