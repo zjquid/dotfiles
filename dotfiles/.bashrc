@@ -3,7 +3,7 @@
 #
 
     export EDITOR='nvim'
-    alias neofetch='neofetch --ascii_distro artix_small'
+    alias neofetch='neofetch --ascii_distro arch_small'
 
 ### my aliases ###
 
@@ -25,6 +25,7 @@
     alias matlab='~/matlab/matlab/bin/matlab'
     alias bt='acpi -bt'
     alias qp='qpdfview'
+    alias ok='okular'
     alias scrot='scrot -s'
 # redirects
     alias vim='nvim' # you already know

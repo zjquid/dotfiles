@@ -2,7 +2,7 @@
 # andrew hooke 05/30/21
 
 # monitor
-xrandr --output LVDS1 --mode 1280x800 --scale-from 1920x1080 --output HDMI2 --mode 1920x1080 --scale 1x1 --same-as LVDS1 &
+# xrandr --output LVDS1 --mode 1280x800 --scale-from 1920x1080 --output HDMI2 --mode 1920x1080 --scale 1x1 --same-as LVDS1 &
 
 # compositor
 picom &
