@@ -1,0 +1,8 @@
+2022/10/11-21:46:15.114 8a6 Reusing MANIFEST /home/andrew/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/10/11-21:46:15.114 8a6 Recovering log #4
+2022/10/11-21:46:15.135 8a6 Level-0 table #7: started
+2022/10/11-21:46:15.188 8a6 Level-0 table #7: 1114247 bytes OK
+2022/10/11-21:46:15.195 8a6 Delete type=0 #4
+2022/10/11-21:48:16.670 96f Level-0 table #10: started
+2022/10/11-21:48:16.722 96f Level-0 table #10: 1191750 bytes OK
+2022/10/11-21:48:16.726 96f Delete type=0 #8
