@@ -1,6 +1,0 @@
-2022/05/26-22:39:44.690 12dd Creating DB /home/andrew/.config/Slippi Launcher/IndexedDB/file__0.indexeddb.leveldb since it was missing.
-2022/05/26-22:39:44.702 12dd Reusing MANIFEST /home/andrew/.config/Slippi Launcher/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2022/05/26-22:39:44.845 12de Level-0 table #5: started
-2022/05/26-22:39:44.849 12de Level-0 table #5: 1240 bytes OK
-2022/05/26-22:39:44.854 12de Delete type=0 #3
-2022/05/26-22:39:44.855 12de Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
