@@ -1,0 +1,33 @@
+Mono path[0] = '/opt/daggerfall-unity/engine/DaggerfallUnity_Data/Managed'
+Mono config path = '/opt/daggerfall-unity/engine/DaggerfallUnity_Data/MonoBleedingEdge/etc'
+Display 0 '0': 1280x800 (primary device).
+Unable to load player prefs
+Desktop is 1280 x 800 @ 60 Hz
+Unable to find a supported OpenGL core profile
+Failed to create valid graphics context: please ensure you meet the minimum requirements
+E.g. OpenGL core profile 3.2 or later for OpenGL Core renderer
+[Vulkan init] extensions: count=20
+[Vulkan init] extensions: name=VK_KHR_device_group_creation, enabled=0
+[Vulkan init] extensions: name=VK_KHR_display, enabled=1
+[Vulkan init] extensions: name=VK_KHR_external_fence_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_display_properties2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_surface_protected_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_wayland_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_xcb_surface, enabled=0
+[Vulkan init] extensions: name=VK_KHR_xlib_surface, enabled=1
+[Vulkan init] extensions: name=VK_EXT_acquire_drm_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_acquire_xlib_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_report, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_utils, enabled=0
+[Vulkan init] extensions: name=VK_EXT_direct_mode_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_display_surface_counter, enabled=0
+[Vulkan init] extensions: name=VK_KHR_portability_enumeration, enabled=0
+Vulkan detection: 0
+No supported renderers found, exiting 
+(Filename:  Line: 629)
+

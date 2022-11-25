@@ -1,0 +1,99 @@
+[05:10:44.277 I] Crash handler installed
+[05:10:44.361 I] Loading config file: /home/andrew/.config/openmw/openmw.cfg
+[05:10:44.367 I] Loading config file: /etc/openmw/openmw.cfg
+[05:10:44.371 I] OpenMW version 0.47.0
+[05:10:44.372 I] Using default (English) font encoding.
+[05:10:44.375 I] OSG version: 3.6.5
+[05:10:44.375 I] SDL version: 2.24.2
+[05:10:44.377 I] Loading settings file: /etc/openmw/defaults.bin
+[05:10:44.377 I] Loading settings file: /home/andrew/.config/openmw/settings.cfg
+[05:10:44.587 I] Adding BSA archive /home/andrew/.wine/dosdevices/c:/Program Files (x86)/The Elder Scrolls III Morrowind GOTY/Data Files/Morrowind.bsa
+[05:10:44.622 I] Adding BSA archive /home/andrew/.wine/dosdevices/c:/Program Files (x86)/The Elder Scrolls III Morrowind GOTY/Data Files/Tribunal.bsa
+[05:10:44.625 I] Adding BSA archive /home/andrew/.wine/dosdevices/c:/Program Files (x86)/The Elder Scrolls III Morrowind GOTY/Data Files/Bloodmoon.bsa
+[05:10:44.632 I] Adding data directory /usr/share/games/openmw/resources/vfs
+[05:10:44.633 I] Adding data directory /usr/share/games/openmw/data
+[05:10:44.633 I] Adding data directory /home/andrew/.local/share/openmw/basedata
+[05:10:44.633 I] Adding data directory /home/andrew/.wine/dosdevices/c:/Program Files (x86)/The Elder Scrolls III Morrowind GOTY/Data Files
+[05:10:44.891 I] Loading keybindings file: /home/andrew/.config/openmw/input_v3.xml
+[05:10:45.031 I] Initializing OpenAL...
+[05:10:45.078 I] Opened "Built-in Audio Analog Stereo"
+[05:10:45.078 I]   ALC Version: 1.1
+[05:10:45.078 I]   ALC Extensions: ALC_ENUMERATE_ALL_EXT ALC_ENUMERATION_EXT ALC_EXT_CAPTURE ALC_EXT_DEDICATED ALC_EXT_disconnect ALC_EXT_EFX ALC_EXT_thread_local_context ALC_SOFT_device_clock ALC_SOFT_HRTF ALC_SOFT_loopback ALC_SOFT_loopback_bformat ALC_SOFT_output_limiter ALC_SOFT_output_mode ALC_SOFT_pause_device ALC_SOFT_reopen_device
+[05:10:45.177 I]   Vendor: OpenAL Community
+[05:10:45.177 I]   Renderer: OpenAL Soft
+[05:10:45.177 I]   Version: 1.1 ALSOFT 1.22.2
+[05:10:45.177 I]   Extensions: AL_EXT_ALAW AL_EXT_BFORMAT AL_EXT_DOUBLE AL_EXT_EXPONENT_DISTANCE AL_EXT_FLOAT32 AL_EXT_IMA4 AL_EXT_LINEAR_DISTANCE AL_EXT_MCFORMATS AL_EXT_MULAW AL_EXT_MULAW_BFORMAT AL_EXT_MULAW_MCFORMATS AL_EXT_OFFSET AL_EXT_source_distance_model AL_EXT_SOURCE_RADIUS AL_EXT_STEREO_ANGLES AL_LOKI_quadriphonic AL_SOFT_bformat_ex AL_SOFTX_bformat_hoa AL_SOFT_block_alignment AL_SOFT_callback_buffer AL_SOFTX_convolution_reverb AL_SOFT_deferred_updates AL_SOFT_direct_channels AL_SOFT_direct_channels_remix AL_SOFT_effect_target AL_SOFT_events AL_SOFT_gain_clamp_ex AL_SOFTX_hold_on_disconnect AL_SOFT_loop_points AL_SOFTX_map_buffer AL_SOFT_MSADPCM AL_SOFT_source_latency AL_SOFT_source_length AL_SOFT_source_resampler AL_SOFT_source_spatialize AL_SOFT_UHJ
+[05:10:45.177 I] Enabled HRTF Default HRTF
+[05:10:45.179 I] Allocated 256 sound sources
+[05:10:45.179 I] Low-pass filter supported
+[05:10:45.179 I] EAX Reverb supported
+[05:10:45.179 I] Enumerated output devices:
+[05:10:45.179 I]   Built-in Audio Analog Stereo
+[05:10:45.182 I] Enumerated HRTF names:
+[05:10:45.182 I]   Default HRTF  Built-In HRTF
+[05:10:46.333 I] Loading content file Morrowind.esm
+[05:10:47.026 I] Loading content file Tribunal.esm
+[05:10:47.214 I] Loading content file Bloodmoon.esm
+[05:10:47.413 I] Loading content file Patch for Purists - Book Typos.ESP
+[05:10:47.423 I] Loading content file Patch for Purists - Semi-Purist Fixes.ESP
+[05:10:47.424 I] Loading content file Patch for Purists.esm
+[05:10:48.094 V] Using idle priority for thread=139972405077696
+[05:10:48.314 I] Playing music/special/morrowind title.mp3
+[05:10:50.760 I] Starting a new game
+[05:10:51.375 I] Changing to interior
+[05:10:51.375 I] Loading cell Imperial Prison Ship
+[05:10:53.363 V] Controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+[05:10:53.927 I] Playing music/explore/mx_explore_4.mp3
+[05:11:02.118 I] AiTravel: 90, -90, -88
+[05:11:19.816 I] AiEscort: 195, 100, 170, 12
+[05:11:36.485 I] Unloading cell Imperial Prison Ship
+[05:11:36.487 I] Loading cell Seyda Neen (-2, -9)
+[05:11:36.517 I] Loading cell Bitter Coast Region (-2, -8)
+[05:11:36.529 I] Loading cell Bitter Coast Region (-1, -9)
+[05:11:36.538 I] Loading cell Bitter Coast Region (-3, -9)
+[05:11:36.572 I] Loading cell Seyda Neen (-2, -10)
+[05:11:36.597 I] Loading cell Ascadian Isles Region (-1, -8)
+[05:11:36.604 I] Loading cell Bitter Coast Region (-3, -8)
+[05:11:36.661 I] Loading cell Bitter Coast Region (-1, -10)
+[05:11:36.669 I] Loading cell Bitter Coast Region (-3, -10)
+[05:11:36.727 I] AiTravel: -8914, -73093, 126
+[05:11:36.729 I] Warning: fallingScript line 46, column 6 (endif): endif without matching if/elseif
+[05:12:00.581 I] Changing to interior
+[05:12:00.581 I] Unloading cell Ascadian Isles Region (-1, -8)
+[05:12:00.583 I] Unloading cell Bitter Coast Region (-1, -9)
+[05:12:00.586 I] Unloading cell Bitter Coast Region (-1, -10)
+[05:12:00.589 I] Unloading cell Bitter Coast Region (-2, -8)
+[05:12:00.591 I] Unloading cell Seyda Neen (-2, -9)
+[05:12:00.594 I] Unloading cell Seyda Neen (-2, -10)
+[05:12:00.597 I] Unloading cell Bitter Coast Region (-3, -8)
+[05:12:00.598 I] Unloading cell Bitter Coast Region (-3, -9)
+[05:12:00.599 I] Unloading cell Bitter Coast Region (-3, -10)
+[05:12:00.600 I] Loading cell Imperial Prison Ship
+[05:12:00.646 W] Warning: detected OpenGL error 'invalid operation' at after RenderBin::draw(..)
+[05:12:03.233 I] AiTravel: 185, 174, 170
+[05:12:08.931 I] Unloading cell Imperial Prison Ship
+[05:12:08.935 I] Loading cell Seyda Neen (-2, -9)
+[05:12:08.967 I] Loading cell Bitter Coast Region (-2, -8)
+[05:12:08.977 I] Loading cell Bitter Coast Region (-1, -9)
+[05:12:08.985 I] Loading cell Bitter Coast Region (-3, -9)
+[05:12:08.994 I] Loading cell Seyda Neen (-2, -10)
+[05:12:09.003 I] Loading cell Ascadian Isles Region (-1, -8)
+[05:12:09.010 I] Loading cell Bitter Coast Region (-3, -8)
+[05:12:09.022 I] Loading cell Bitter Coast Region (-1, -10)
+[05:12:09.028 I] Loading cell Bitter Coast Region (-3, -10)
+[05:12:26.278 I] AiTravel: -9944, -72481, 126
+[05:12:31.697 I] Changing to interior
+[05:12:31.697 I] Unloading cell Ascadian Isles Region (-1, -8)
+[05:12:31.703 I] Unloading cell Bitter Coast Region (-1, -9)
+[05:12:31.707 I] Unloading cell Bitter Coast Region (-1, -10)
+[05:12:31.709 I] Unloading cell Bitter Coast Region (-2, -8)
+[05:12:31.711 I] Unloading cell Seyda Neen (-2, -9)
+[05:12:31.715 I] Unloading cell Seyda Neen (-2, -10)
+[05:12:31.718 I] Unloading cell Bitter Coast Region (-3, -8)
+[05:12:31.720 I] Unloading cell Bitter Coast Region (-3, -9)
+[05:12:31.721 I] Unloading cell Bitter Coast Region (-3, -10)
+[05:12:31.722 I] Loading cell Seyda Neen, Census and Excise Office
+[05:12:31.837 W] Warning: detected OpenGL error 'invalid operation' at after RenderBin::draw(..)
+[05:12:51.284 V] Changed setting: [Video] resolution y = 749
+[05:12:51.284 I] Updating settings file: "/home/andrew/.config/openmw/settings.cfg"
+[05:12:51.291 I] Quitting peacefully.

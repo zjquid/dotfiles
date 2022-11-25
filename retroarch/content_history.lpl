@@ -7,5 +7,29 @@
   "left_thumbnail_mode": 0,
   "sort_mode": 2,
   "items": [
+    {
+      "path": "/home/andrew/retroarchroms/shenmue.chd",
+      "label": "",
+      "core_path": "/usr/lib/libretro/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/andrew/Downloads/shenmue.chd",
+      "label": "",
+      "core_path": "/usr/lib/libretro/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/andrew/retroarchroms/Silent Hill (v1.1)/Silent Hill (v1.1).cue",
+      "label": "",
+      "core_path": "/usr/lib/libretro/mednafen_psx_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX)",
+      "crc32": "",
+      "db_name": ""
+    }
   ]
 }
