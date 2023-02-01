@@ -4,5 +4,4 @@ items=$(ls -a ~/.config/dotfiles/ | xargs)
 
 cp $items ~/
 
-rm /usr/lib/urxvt/perl/eval
-mv ~/eval /usr/lib/urxvt/perl/eval
+echo "put github token into the eval script then move it to /usr/lib/urxvt/perl/eval"

@@ -97,7 +97,7 @@ paste github token
 
 sub token_paste () {
 	my ($self) = @_;
-	system("sleep 0.25 && xdotool type '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' && xdotool key Return &");
+	system("sleep 0.25 && xdotool type 'PASTE TOKEN HERE' && xdotool key Return &");
 }
 
 =item paste_primary
