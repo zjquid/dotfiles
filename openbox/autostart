@@ -9,7 +9,8 @@ picom &
 
 # taskbar
 # tint2 &
-~/.config/polybar/blocks/launch.sh &
+#~/.config/polybar/blocks/launch.sh &
+polybar mybar &
 
 # map control to capslock
 /usr/bin/setxkbmap -option "ctrl:nocaps" &
