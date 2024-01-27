@@ -14,6 +14,7 @@ polybar mybar &
 
 # map control to capslock
 /usr/bin/setxkbmap -option "ctrl:nocaps" &
+/home/andrew/.config/openbox/afterstart.sh &
 
 # wallpaper
 # feh --bg-tile --randomize ~/wiig/pattemp/* &
